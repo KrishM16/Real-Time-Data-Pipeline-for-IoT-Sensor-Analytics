@@ -1,0 +1,7 @@
+kafka-python
+pyspark
+sqlalchemy
+psycopg2-binary
+pandas
+pyarrow
+apache-airflow
